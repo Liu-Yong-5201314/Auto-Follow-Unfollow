@@ -1,0 +1,17 @@
+name: Github-Auto-Follow-Unfollow-View-User-List
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */3 * * *'
+
+jobs:
+  auto-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Github-Auto-Follow-Unfollow-View-User-List
+        uses: Huniko519/Github-Auto-Follow-Unfollow-View-User-List@main
+        with:
+          token: ${{ secrets.TOKEN }}
+          username: ${{ github.actor }}
+          repository: ${{ github.repository }}
