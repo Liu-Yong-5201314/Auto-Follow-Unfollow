@@ -13,5 +13,4 @@ jobs:
         uses: Huniko519/Github-Auto-Follow-Unfollow-View-User-List@main
         with:
           token: ${{ secrets.TOKEN }}
-          username: ${{ github.actor }}
           repository: ${{ github.repository }}
