@@ -8,7 +8,7 @@
 | -- | -- | -- | -- | -- |
 | Riu Yong | I am web developer. | - | Hong Kong | - |
 
-## Followers <kbd>46</kbd>
+## Followers <kbd>48</kbd>
 
 <table width="100%">
   <tr width="100%">
@@ -18,8 +18,18 @@
       </a>
     </td>
     <td width="10%" align="center">
+      <a href="https://github.com/brunokirby-dev">
+        <img src="https://avatars.githubusercontent.com/u/135716537?v=4" />
+      </a>
+    </td>
+    <td width="10%" align="center">
       <a href="https://github.com/PXOOXP">
         <img src="https://avatars.githubusercontent.com/u/135699077?v=4" />
+      </a>
+    </td>
+    <td width="10%" align="center">
+      <a href="https://github.com/solarspecter315">
+        <img src="https://avatars.githubusercontent.com/u/134133099?v=4" />
       </a>
     </td>
     <td width="10%" align="center">
@@ -52,6 +62,7 @@
         <img src="https://avatars.githubusercontent.com/u/115201845?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/luckybird1115">
         <img src="https://avatars.githubusercontent.com/u/115003631?v=4" />
@@ -62,7 +73,6 @@
         <img src="https://avatars.githubusercontent.com/u/114125892?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/CarlosAlexandre197">
         <img src="https://avatars.githubusercontent.com/u/113312099?v=4" />
@@ -103,6 +113,7 @@
         <img src="https://avatars.githubusercontent.com/u/107358517?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/attractiveDev">
         <img src="https://avatars.githubusercontent.com/u/105986821?v=4" />
@@ -113,7 +124,6 @@
         <img src="https://avatars.githubusercontent.com/u/105542355?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/ghanti2345678">
         <img src="https://avatars.githubusercontent.com/u/97501271?v=4" />
@@ -154,6 +164,7 @@
         <img src="https://avatars.githubusercontent.com/u/87487520?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/Valentino-Junior">
         <img src="https://avatars.githubusercontent.com/u/87479153?v=4" />
@@ -164,7 +175,6 @@
         <img src="https://avatars.githubusercontent.com/u/87088868?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/yousufkalim">
         <img src="https://avatars.githubusercontent.com/u/86219218?v=4" />
@@ -205,6 +215,7 @@
         <img src="https://avatars.githubusercontent.com/u/44928288?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/cynthemm09">
         <img src="https://avatars.githubusercontent.com/u/41887764?v=4" />
@@ -215,7 +226,6 @@
         <img src="https://avatars.githubusercontent.com/u/39453065?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/dominicmonteiro">
         <img src="https://avatars.githubusercontent.com/u/38115285?v=4" />
@@ -245,10 +255,6 @@
       <a href="https://github.com/esin">
         <img src="https://avatars.githubusercontent.com/u/69767?v=4" />
       </a>
-    </td>
-    <td width="10%" align="center">
-    </td>
-    <td width="10%" align="center">
     </td>
     <td width="10%" align="center">
     </td>
