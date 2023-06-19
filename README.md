@@ -10,8 +10,8 @@
 <table width="100%">
   <tr width="100%">
     <td width="10%" align="center">
-      <a href="https://github.com/LovelySweet0607">
-        <img src="https://avatars.githubusercontent.com/u/136874722?v=4" />
+      <a href="https://github.com/gozdesnr">
+        <img src="https://avatars.githubusercontent.com/u/137048350?v=4" />
       </a>
     </td>
     <td width="10%" align="center">
