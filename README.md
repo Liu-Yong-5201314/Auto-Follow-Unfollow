@@ -5,7 +5,7 @@
 | -- | -- | -- | -- | -- |
 | Riu Yong | I am software engineer. | - | Hong Kong | - |
 
-## Followers <kbd>100</kbd>
+## Followers <kbd>99</kbd>
 
 <table width="100%">
   <tr width="100%">
@@ -152,7 +152,7 @@
       </a>
     </td>
     <td width="10%" align="center">
-      <a href="https://github.com/hit-dev07">
+      <a href="https://github.com/uniway-hitman">
         <img src="https://avatars.githubusercontent.com/u/131217149?v=4" />
       </a>
     </td>
@@ -162,11 +162,6 @@
       </a>
     </td>
   </tr><tr width="100%">
-    <td width="10%" align="center">
-      <a href="https://github.com/Dev-Edison">
-        <img src="https://avatars.githubusercontent.com/u/128188919?v=4" />
-      </a>
-    </td>
     <td width="10%" align="center">
       <a href="https://github.com/0xBenjaminn">
         <img src="https://avatars.githubusercontent.com/u/127695822?v=4" />
@@ -212,12 +207,12 @@
         <img src="https://avatars.githubusercontent.com/u/121866282?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/Merajhad">
         <img src="https://avatars.githubusercontent.com/u/121297652?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/StopWarInUkraineInstantly">
         <img src="https://avatars.githubusercontent.com/u/121184602?v=4" />
@@ -263,12 +258,12 @@
         <img src="https://avatars.githubusercontent.com/u/114460748?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/jackcxp">
         <img src="https://avatars.githubusercontent.com/u/114125892?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/CarlosAlexandre197">
         <img src="https://avatars.githubusercontent.com/u/113312099?v=4" />
@@ -314,12 +309,12 @@
         <img src="https://avatars.githubusercontent.com/u/105986821?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/X-itachi-X">
         <img src="https://avatars.githubusercontent.com/u/104882734?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/lincon-ac">
         <img src="https://avatars.githubusercontent.com/u/103010131?v=4" />
@@ -365,12 +360,12 @@
         <img src="https://avatars.githubusercontent.com/u/95761247?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/infinite0525">
         <img src="https://avatars.githubusercontent.com/u/95502464?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/MrCrocodileDev">
         <img src="https://avatars.githubusercontent.com/u/95100666?v=4" />
@@ -416,12 +411,12 @@
         <img src="https://avatars.githubusercontent.com/u/86196176?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/developernaimul">
         <img src="https://avatars.githubusercontent.com/u/83422055?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/labyrynth29">
         <img src="https://avatars.githubusercontent.com/u/81728652?v=4" />
@@ -467,12 +462,12 @@
         <img src="https://avatars.githubusercontent.com/u/41887764?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/Rohit19060">
         <img src="https://avatars.githubusercontent.com/u/39453065?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/dominicmonteiro">
         <img src="https://avatars.githubusercontent.com/u/38115285?v=4" />
@@ -517,6 +512,8 @@
       <a href="https://github.com/esin">
         <img src="https://avatars.githubusercontent.com/u/69767?v=4" />
       </a>
+    </td>
+    <td width="10%" align="center">
     </td>
   </tr>
 </table>
