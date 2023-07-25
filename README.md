@@ -5,7 +5,7 @@
 | -- | -- | -- | -- | -- |
 | Riu Yong | I am software engineer. | - | Hong Kong | - |
 
-## Followers <kbd>82</kbd>
+## Followers <kbd>81</kbd>
 
 <table width="100%">
   <tr width="100%">
@@ -387,11 +387,6 @@
       </a>
     </td>
     <td width="10%" align="center">
-      <a href="https://github.com/RISHIKREDDYL">
-        <img src="https://avatars.githubusercontent.com/u/36101925?v=4" />
-      </a>
-    </td>
-    <td width="10%" align="center">
       <a href="https://github.com/jackbereson">
         <img src="https://avatars.githubusercontent.com/u/18569187?v=4" />
       </a>
@@ -416,16 +411,18 @@
         <img src="https://avatars.githubusercontent.com/u/6509565?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/kenjinote">
         <img src="https://avatars.githubusercontent.com/u/2605401?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/esin">
         <img src="https://avatars.githubusercontent.com/u/69767?v=4" />
       </a>
+    </td>
+    <td width="10%" align="center">
     </td>
     <td width="10%" align="center">
     </td>
