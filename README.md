@@ -5,7 +5,7 @@
 | -- | -- | -- | -- | -- |
 | Liu Yong | I am software engineer. | - | Hong Kong | - |
 
-## Followers <kbd>114</kbd>
+## Followers <kbd>113</kbd>
 
 <table width="100%">
   <tr width="100%">
@@ -474,11 +474,6 @@
       </a>
     </td>
     <td width="10%" align="center">
-      <a href="https://github.com/winnerdev2012">
-        <img src="https://avatars.githubusercontent.com/u/70522646?v=4" />
-      </a>
-    </td>
-    <td width="10%" align="center">
       <a href="https://github.com/H-K-R">
         <img src="https://avatars.githubusercontent.com/u/69351423?v=4" />
       </a>
@@ -518,12 +513,12 @@
         <img src="https://avatars.githubusercontent.com/u/45784426?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/rc-chuah">
         <img src="https://avatars.githubusercontent.com/u/44928288?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/VISH01AL">
         <img src="https://avatars.githubusercontent.com/u/42919948?v=4" />
@@ -569,12 +564,12 @@
         <img src="https://avatars.githubusercontent.com/u/10959922?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/d3coder-eth">
         <img src="https://avatars.githubusercontent.com/u/10740949?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/gamemann">
         <img src="https://avatars.githubusercontent.com/u/6509565?v=4" />
@@ -589,6 +584,8 @@
       <a href="https://github.com/esin">
         <img src="https://avatars.githubusercontent.com/u/69767?v=4" />
       </a>
+    </td>
+    <td width="10%" align="center">
     </td>
     <td width="10%" align="center">
     </td>
