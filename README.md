@@ -5,7 +5,7 @@
 | -- | -- | -- | -- | -- |
 | Liu Yong | I am software engineer. | - | Hong Kong | - |
 
-## Followers <kbd>147</kbd>
+## Followers <kbd>146</kbd>
 
 <table width="100%">
   <tr width="100%">
@@ -627,11 +627,6 @@
       </a>
     </td>
     <td width="10%" align="center">
-      <a href="https://github.com/NirmalNaveen20">
-        <img src="https://avatars.githubusercontent.com/u/53178630?v=4" />
-      </a>
-    </td>
-    <td width="10%" align="center">
       <a href="https://github.com/adonis32">
         <img src="https://avatars.githubusercontent.com/u/52372132?v=4" />
       </a>
@@ -671,12 +666,12 @@
         <img src="https://avatars.githubusercontent.com/u/45784426?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/rc-chuah">
         <img src="https://avatars.githubusercontent.com/u/44928288?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/VISH01AL">
         <img src="https://avatars.githubusercontent.com/u/42919948?v=4" />
@@ -722,12 +717,12 @@
         <img src="https://avatars.githubusercontent.com/u/18569187?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/AYIDouble">
         <img src="https://avatars.githubusercontent.com/u/18186995?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/suzukidavid">
         <img src="https://avatars.githubusercontent.com/u/15697781?v=4" />
@@ -757,6 +752,8 @@
       <a href="https://github.com/esin">
         <img src="https://avatars.githubusercontent.com/u/69767?v=4" />
       </a>
+    </td>
+    <td width="10%" align="center">
     </td>
     <td width="10%" align="center">
     </td>
