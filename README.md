@@ -5,7 +5,7 @@
 | -- | -- | -- | -- | -- |
 | Liu Yong | I am software engineer. | - | Hong Kong | - |
 
-## Followers <kbd>157</kbd>
+## Followers <kbd>156</kbd>
 
 <table width="100%">
   <tr width="100%">
@@ -418,7 +418,7 @@
     </td>
   </tr><tr width="100%">
     <td width="10%" align="center">
-      <a href="https://github.com/javier-100">
+      <a href="https://github.com/codegenius1017">
         <img src="https://avatars.githubusercontent.com/u/110030401?v=4" />
       </a>
     </td>
@@ -484,7 +484,7 @@
       </a>
     </td>
     <td width="10%" align="center">
-      <a href="https://github.com/ctiptopper">
+      <a href="https://github.com/perry-daniel-business">
         <img src="https://avatars.githubusercontent.com/u/97345885?v=4" />
       </a>
     </td>
@@ -703,11 +703,6 @@
       </a>
     </td>
     <td width="10%" align="center">
-      <a href="https://github.com/PremChapagain">
-        <img src="https://avatars.githubusercontent.com/u/47587012?v=4" />
-      </a>
-    </td>
-    <td width="10%" align="center">
       <a href="https://github.com/mxmnk">
         <img src="https://avatars.githubusercontent.com/u/46030850?v=4" />
       </a>
@@ -722,12 +717,12 @@
         <img src="https://avatars.githubusercontent.com/u/44928288?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/VISH01AL">
         <img src="https://avatars.githubusercontent.com/u/42919948?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/cynthemm09">
         <img src="https://avatars.githubusercontent.com/u/41887764?v=4" />
@@ -773,12 +768,12 @@
         <img src="https://avatars.githubusercontent.com/u/18186995?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/suzukidavid">
         <img src="https://avatars.githubusercontent.com/u/15697781?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/whitehorse21">
         <img src="https://avatars.githubusercontent.com/u/10959922?v=4" />
@@ -808,6 +803,8 @@
       <a href="https://github.com/esin">
         <img src="https://avatars.githubusercontent.com/u/69767?v=4" />
       </a>
+    </td>
+    <td width="10%" align="center">
     </td>
     <td width="10%" align="center">
     </td>
