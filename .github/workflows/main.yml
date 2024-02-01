@@ -13,6 +13,6 @@ jobs:
         uses: Huniko519/Github-Auto-Follow-Unfollow-View-User-List@main
         with:
           token: ${{ secrets.TOKEN }}
-          repository: ${{ github.repository 
+          repository: ${{ github.repository }}
           isReadmeUpdate: true
           safeUserList: 'Huniko519,Huniko-Team'
