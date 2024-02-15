@@ -5,7 +5,7 @@
 | -- | -- | -- | -- | -- |
 | Liu Yong | I am software engineer. | - | Hong Kong | - |
 
-## Followers <kbd>159</kbd>
+## Followers <kbd>158</kbd>
 
 <table width="100%">
   <tr width="100%">
@@ -657,11 +657,6 @@
       </a>
     </td>
     <td width="10%" align="center">
-      <a href="https://github.com/vacaramin">
-        <img src="https://avatars.githubusercontent.com/u/68877880?v=4" />
-      </a>
-    </td>
-    <td width="10%" align="center">
       <a href="https://github.com/kieled">
         <img src="https://avatars.githubusercontent.com/u/68655454?v=4" />
       </a>
@@ -671,12 +666,12 @@
         <img src="https://avatars.githubusercontent.com/u/68469520?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/valloon91234">
         <img src="https://avatars.githubusercontent.com/u/61017400?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/Rodrigo-Sarmento">
         <img src="https://avatars.githubusercontent.com/u/59851576?v=4" />
@@ -722,12 +717,12 @@
         <img src="https://avatars.githubusercontent.com/u/46030850?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/goliranyan">
         <img src="https://avatars.githubusercontent.com/u/45784426?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/rc-chuah">
         <img src="https://avatars.githubusercontent.com/u/44928288?v=4" />
@@ -773,12 +768,12 @@
         <img src="https://avatars.githubusercontent.com/u/24955872?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/jackbereson">
         <img src="https://avatars.githubusercontent.com/u/18569187?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/AYIDouble">
         <img src="https://avatars.githubusercontent.com/u/18186995?v=4" />
@@ -818,6 +813,8 @@
       <a href="https://github.com/esin">
         <img src="https://avatars.githubusercontent.com/u/69767?v=4" />
       </a>
+    </td>
+    <td width="10%" align="center">
     </td>
     <td width="10%" align="center">
     </td>
