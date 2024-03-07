@@ -5,7 +5,7 @@
 | -- | -- | -- | -- | -- |
 | Liu Yong | I am software engineer. | - | Hong Kong | - |
 
-## Followers <kbd>161</kbd>
+## Followers <kbd>160</kbd>
 
 <table width="100%">
   <tr width="100%">
@@ -815,38 +815,14 @@
       </a>
     </td>
     <td width="10%" align="center">
-      <a href="https://github.com/thiagopac">
-        <img src="https://avatars.githubusercontent.com/u/3586967?v=4" />
-      </a>
-    </td>
-    <td width="10%" align="center">
       <a href="https://github.com/kenjinote">
         <img src="https://avatars.githubusercontent.com/u/2605401?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/esin">
         <img src="https://avatars.githubusercontent.com/u/69767?v=4" />
       </a>
-    </td>
-    <td width="10%" align="center">
-    </td>
-    <td width="10%" align="center">
-    </td>
-    <td width="10%" align="center">
-    </td>
-    <td width="10%" align="center">
-    </td>
-    <td width="10%" align="center">
-    </td>
-    <td width="10%" align="center">
-    </td>
-    <td width="10%" align="center">
-    </td>
-    <td width="10%" align="center">
-    </td>
-    <td width="10%" align="center">
     </td>
   </tr>
 </table>
